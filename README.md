@@ -1,7 +1,7 @@
 # Olá! Eu sou a Alessandrads
 
 - 📝 Estudando JavaScript
-- 💻 Analista de Sistemas
+- 💻 Engenharia de Software
 - 👩🏽 Pronouns: ela/dela
 
 - <div>
